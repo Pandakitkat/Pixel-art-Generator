@@ -38,6 +38,6 @@ Pixel Art Generator is licensed under the [MIT License](https://opensource.org/l
 
 ## Contact
 
-If you have any questions, suggestions, or feedback, please reach out to the project maintainer at kitkatpandamanic@gmail.com(mailto:your-email@example.com). We value your input and appreciate your interest in Pixel Art Generator.
+If you have any questions, suggestions, or feedback, please reach out to the project maintainer at kitkatpandamanic@gmail.com. We value your input and appreciate your interest in Pixel Art Generator.
 
 Start creating stunning pixel art today with Pixel Art Generator!
